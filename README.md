@@ -1,4 +1,6 @@
 ## Website Performance Optimization project
+https://jcjodie.github.io/udacity-optimization-project/
+or
 -Download the Website Optimization Project files.
 -Open the index.html file in your browser.
 -Click "Cam's Pizzaria or open the views/pizza.html file in your browser.
